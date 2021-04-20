@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/trunk/ExampleLuaAI
+END
+ExampleLuaAI.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/trunk/ExampleLuaAI/ExampleLuaAI.sln
+END
+ExampleLuaAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/trunk/ExampleLuaAI/ExampleLuaAI.cpp
+END
+ExampleLuaAI.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/trunk/ExampleLuaAI/ExampleLuaAI.vcproj
+END
+DLL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/trunk/ExampleLuaAI/DLL.cpp
+END
+ExampleLuaAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/trunk/ExampleLuaAI/ExampleLuaAI.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI
+END
+BinderUpgradeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderUpgradeType.h
+END
+BinderGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderGame.h
+END
+BinderRace.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderRace.h
+END
+BinderWeaponType.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderWeaponType.h
+END
+BinderPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderPlayer.h
+END
+BinderUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderUnit.h
+END
+BinderUnitType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderUnitType.h
+END
+BinderBWAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderBWAPI.h
+END
+BinderTechType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI/BinderTechType.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/source
+END
+AIScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/source/AIScript.cpp
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/source/Logger.cpp
+END
+LuaInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/source/LuaInterface.cpp
+END

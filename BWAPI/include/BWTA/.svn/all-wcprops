@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/trunk/BWAPI/include/BWTA
+END
+Polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/trunk/BWAPI/include/BWTA/Polygon.h
+END
+BaseLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/trunk/BWAPI/include/BWTA/BaseLocation.h
+END
+Chokepoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/trunk/BWAPI/include/BWTA/Chokepoint.h
+END
+Region.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/trunk/BWAPI/include/BWTA/Region.h
+END

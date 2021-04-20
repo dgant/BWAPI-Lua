@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include
+END
+lj_traceerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_traceerr.h
+END
+lj_str.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_str.h
+END
+lj_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_parse.h
+END
+lj_ffdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_ffdef.h
+END
+lj_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_arch.h
+END
+buildvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/buildvm.h
+END
+lj_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_record.h
+END
+lj_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_state.h
+END
+lj_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_asm.h
+END
+lj_vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_vm.h
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lualib.h
+END
+lj_ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_ctype.h
+END
+lj_vmevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_vmevent.h
+END
+lj_jit.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_jit.h
+END
+lj_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_target.h
+END
+lj_mcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_mcode.h
+END
+lj_lex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_lex.h
+END
+lj_recdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_recdef.h
+END
+lj_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_gc.h
+END
+lj_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_alloc.h
+END
+lj_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_frame.h
+END
+lj_func.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_func.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lua.h
+END
+lj_iropt.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_iropt.h
+END
+lj_trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_trace.h
+END
+lj_dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_dispatch.h
+END
+lj_snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_snap.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/luaconf.h
+END
+luajit.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/luajit.h
+END
+lj_gdbjit.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_gdbjit.h
+END
+lj_obj.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_obj.h
+END
+lj_ir.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_ir.h
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lauxlib.h
+END
+buildvm_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/buildvm_x86.h
+END
+lj_bc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_bc.h
+END
+lj_libdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_libdef.h
+END
+lj_meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_meta.h
+END
+lj_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_err.h
+END
+lj_target_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_target_x86.h
+END
+lj_ff.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_ff.h
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lua.hpp
+END
+lj_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_def.h
+END
+lj_udata.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_udata.h
+END
+lj_errmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_errmsg.h
+END
+lj_folddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_folddef.h
+END
+lj_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_lib.h
+END
+lj_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/trunk/LuaJIT/include/lj_tab.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI-Lua
+END
+BinderLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI-Lua/BinderLogger.h
+END
+BinderBWAPI-Lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/trunk/BWAPI-Lua/include/BWAPI-Lua/Binder/BWAPI-Lua/BinderBWAPI-Lua.h
+END
